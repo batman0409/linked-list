@@ -24,7 +24,7 @@ for (int i = 1; i <n ; i++)
   last=t;
 }
 }
-
+// this is comment
 // void Display(struct node*p){
 // while (p!=NULL)
 // {
